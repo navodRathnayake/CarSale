@@ -1,0 +1,6 @@
+AUDI	Coupe		caa9999		Brand-New	2012	$2000	UNKNOWN
+AUDI	Hatch-B		KA9876		Recondition	2012	$0	z
+AUDI	Hatch-B		KA9989		Recondition	2012	$10	kone
+BENZ	Hatch-B		CAA0009		Brand-New	2015	$20	
+BENZ	Hatch-B		CAA3210		Brand-New	2017	$18000	BENZ1
+NISSAN	Van		PA6654		Brand-New	2016	$18500		KDH
